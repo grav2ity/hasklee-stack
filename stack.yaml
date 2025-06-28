@@ -1,7 +1,7 @@
 resolver: lts-18.27
 
 packages:
-  - hasklee
+  - hasklee-core
   # - hasklee-examples
   # - hasklee-lib
   # - hasklee-reflektor
